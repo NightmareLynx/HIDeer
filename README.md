@@ -1,3 +1,4 @@
+([Logo.png](https://github.com/NightmareLynx/HIDeer/blob/main/Logo.png))
 # HIDeer
 
 **Hide messages in plain sight with advanced image steganography**
