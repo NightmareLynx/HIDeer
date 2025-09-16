@@ -36,7 +36,7 @@ cd HIDeer
 2. Make the script executable (Linux/Mac):
 
 ```bash
-chmod +x steganography.py
+chmod +x HIDeer.py
 ```
 
 ## Usage
@@ -44,19 +44,19 @@ chmod +x steganography.py
 ### Hide a Message
 
 ```bash
-python steganography.py hide input.jpg "Your secret message" output.png
+python HIDeer.py hide input.jpg "Your secret message" output.png
 ```
 
 ### Extract a Hidden Message
 
 ```bash
-python steganography.py extract stego_image.png
+python HIDeer.py extract stego_image.png
 ```
 
 ### Analyze Image Capacity
 
 ```bash
-python steganography.py analyze image.jpg
+python HIDeer.py analyze image.jpg
 ```
 
 ## Command Reference
