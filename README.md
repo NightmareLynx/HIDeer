@@ -1,4 +1,4 @@
-![image alt](https://github.com/NightmareLynx/HIDeer/blob/5104779ea053ba851688d4c976587887f472d0e5/Logo.png)
+![image alt](https://github.com/VEGAxSTERLING/HIDeer/blob/5104779ea053ba851688d4c976587887f472d0e5/Logo.png)
 # HIDeer
 
 **Hide messages in plain sight with advanced image steganography**
@@ -29,7 +29,7 @@ pip install Pillow
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/HIDeer.git
+git clone https://github.com/VEGAxSTERLING/HIDeer.git
 cd HIDeer
 ```
 
@@ -130,9 +130,19 @@ Contributions are welcome! Here's how you can help:
 - Performance optimizations
 - Enhanced security features
 
-## 📄 License
+## Author
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**Vega Sterling**
+
+- Cybersecurity Researcher | Pentester | Open-Source Developer
+- Security Content Creator (Linkedin, Medium, Quora)
+- Mission: Spreading cybersecurity awareness through education
+
+### Connect with me:
+
+- Linkedin: [@VEGA STERLING](https://www.linkedin.com/in/vega-sterling-a91163343/)
+- Quora: [@VEGA STERLING](https://www.quora.com/profile/Vega-Sterling-2)
+- Medium: [@VEGA STERLING](https://vega-sterling.medium.com/)
 
 ## Acknowledgments
 
@@ -142,6 +152,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**⚡ HIDeer - Where secrets hide in plain sight**
-
-*Disclaimer: This tool is intended for educational purposes and legitimate security research. Users are responsible for complying with applicable laws and regulations.*
+**Disclaimer**: *This tool is intended for educational purposes and legitimate security research. Users are responsible for complying with applicable laws and regulations.*

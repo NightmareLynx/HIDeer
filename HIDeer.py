@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 """
 Image Steganography Tool
-A tool to hide and extract secret messages in images using LSB (Least Significant Bit) technique.
-Perfect for cybersecurity learning and data concealment practice.
+Author: VEGAxSTERLING
+License: Designed for cybersecurity learning and data concealment practice.
+Purpose: Hide and extract secret messages in images using (LSB) steganography.
+
 """
 
 from PIL import Image
